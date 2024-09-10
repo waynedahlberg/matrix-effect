@@ -1,0 +1,5 @@
+# Ignore all .jpg files
+*.jpg
+
+# But don't ignore files in the Images folder
+!Images/*.jpg
